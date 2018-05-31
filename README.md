@@ -1,4 +1,4 @@
-# CVND---Image-Captioning-Project
+# Udacity Computer Vision Nanodegree---Image-Captioning-Project
 
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
