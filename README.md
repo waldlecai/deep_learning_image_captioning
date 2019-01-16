@@ -1,4 +1,4 @@
-# Udacity Computer Vision Nanodegree---Image-Captioning-Project
+# Image Captioning with Deep Learning
 
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
